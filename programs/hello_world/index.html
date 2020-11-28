@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>First MERN Program</title>
+        
+        <!-- Load in React Core and ReactDOM here -->
+        <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+        <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    </head>
+
+    <body>
+        <!-- Create an empty div to store the React components -->
+        <div id="contents"></div>
+
+        <script>
+            // Create the React elements here
+            const element = React.createElement('div', {title: 'Outer div'},
+            React.createElement('h1', null, 'Hello World!')
+            );
+
+            // Use ReactDOM to render the elements inside the div
+            ReactDOM.render(element, document.getElementById('contents'))
+        </script>
+    </body>
+</html>
