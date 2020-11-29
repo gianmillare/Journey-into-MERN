@@ -13,3 +13,6 @@ app.use('/', fileServerMiddleware);
 app.listen(3000, function() {
     console.log('App started on port 3000');
 })
+
+// TIP: add this to package.json under scripts ----> "start": "node server/server.js"
+// This will allow you to use "npm start" at the root directory of the project to launch the app
