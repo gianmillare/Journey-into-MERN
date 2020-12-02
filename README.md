@@ -11,3 +11,4 @@ The notes and mini-projects in this repo are inspired by the lessons and practic
 | [Hello World (JSX)](https://github.com/gianmillare/Journey-into-MERN/blob/main/journey_by_chapter/chapter_2/hello_world/indexJSX.html) | Appending JSX to my first React program | React Core, ReactDOM, React Babel, HTML |
 | [NPM, NVM, and Node](https://github.com/gianmillare/Journey-into-MERN/tree/main/journey_by_chapter/chapter_2/nvm_node_npm) | First installation of Node, NVM, NPM, and Express | Express, React, Node, JSX, HTML |
 | [Separating JSX from HTML (App.jsx)](https://github.com/gianmillare/Journey-into-MERN/tree/main/journey_by_chapter/chapter_2/separating_JSX) | Separating JSX from HTML into App.jsx | Express, React, Node, JSX, HTML |
+| [JSX Transform](https://github.com/gianmillare/Journey-into-MERN/tree/main/journey_by_chapter/chapter_2/jsx_transform) | Using Babel CLI to transform JSX | Express, React, Node, JSX, HTML, *Babel |
